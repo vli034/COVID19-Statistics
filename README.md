@@ -6,7 +6,7 @@ Here is my figma file of all my screens for my Covid19 Statistics mobile applica
 
 # NeedFinding and Competitive analysis 
 Top 5 new functionalities
-1) Speech recogniition in their native language - Older POC tend to mainly speak their native tongue and have poor english skills. A new feature on this app that can prove to benefical for older people is where they can speak into the application and have it open up screens that they are looking for. If it can not tell what they are looking for it will be directed to a representative.
+1) Speech recogniition in their native language - Older POC(People of Color) tend to mainly speak their native tongue and have poor english skills. A new feature on this app that can prove to benefical for older people is where they can speak into the application and have it open up screens that they are looking for. If it can not tell what they are looking for it will be directed to a representative.
 
 2) Active pointers  - The elderly are not familiar with mobile applications and so they might not understand what buttons to press. If  we could add suggestie pointers within the application for each screen. Like a pop up that says "click here to talk to someomeone" or "click here to view numbers". I believe that would be helpful for the eldery.
 
