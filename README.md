@@ -1,6 +1,13 @@
 # COVID19-Statistics Part 3 of Assignment 2
+COVID19 Statistics is an application that aims to provide useful information and tools in regards to covid 19.
 
-Here is my figma file of all my screens for my Covid19 Statistics mobile application 
+# Features of the Application 
+- Symptom tool checker 
+- 24H live representative to speak with 
+- Updated data regarding covid cases
+- Closest testing centers near you
+
+# Figma Prototype UI Design 
 ![Assignment2vli2](https://user-images.githubusercontent.com/39067937/98626682-3f99e100-22e0-11eb-8a03-0343372aaf60.png)
 
 
