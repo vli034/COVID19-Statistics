@@ -1,4 +1,4 @@
-# COVID19-Statistics Part 3 of Assignment 2
+# COVID19-Statistics 
 COVID19 Statistics is an application that aims to provide useful information and tools in regards to covid 19.
 
 # Features of the Application 
